@@ -1,5 +1,6 @@
 # DevOps Simulator
 
+
 A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Project Status
@@ -11,11 +12,13 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Features
 
 ### Core Features
+
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
 
+<<<<<<< HEAD
 ### Production Features
 - SSL/TLS encryption
 - Auto-scaling
